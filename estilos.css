@@ -1,0 +1,36 @@
+body {
+		/* sirve para cambiar el color del fondo */ 
+		background:#000000;
+		/* podemos cambiar el color de las fuentes con este comando. */ 
+		color:#C8C4C3;
+		/* esto sirve para darle margenes a los contenedores. el padding tambien lo hace pero modifica el
+		margen interno del contenedor*/ 
+		margin:20px 50px;
+		
+	}
+	/* este cambia el tamaño de la fuete usando pixeles. */ 
+h1 {
+	
+	font-size:50px;
+	margin:50px 270px;
+	
+	
+
+
+	}
+	
+footer {
+	
+		margin:40px 280px;
+	
+	}
+
+
+
+
+
+/* display modifica la secuencia de los contenedores, podemos decirle que en vez de ponerlos en cascada, 
+nos ponga uno de lado del otro con el atributo "inline-block"*/ 
+
+/* border agrega un borde a nuestro contenedor, y si le agregamos el atributo "solid" sera un borde solido,
+"dotted" es otro tipo de borde pero existen mas*/ 
